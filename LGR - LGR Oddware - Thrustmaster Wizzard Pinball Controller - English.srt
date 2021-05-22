@@ -1,0 +1,840 @@
+﻿1
+00:00:00,400 --> 00:00:03,290
+Come on! That's right, suck it! Zombies!
+
+2
+00:00:05,540 --> 00:00:07,330
+This is the future guys. I'm telling 'ya.
+
+3
+00:00:15,370 --> 00:00:18,050
+Greeting and welcome to LGR Oddware.
+
+4
+00:00:18,050 --> 00:00:23,260
+Where we take a look at the hardware and software that is odd, forgoten and obsolete.
+
+5
+00:00:24,000 --> 00:00:30,640
+And wow, today is all three, this is the Thrustmaster Wizzard Pinball Controller.
+
+6
+00:00:31,100 --> 00:00:36,180
+A set of an addon controller things to put on your PC keyboard,
+
+7
+00:00:36,540 --> 00:00:39,340
+to act pinball like a bumper controls.
+
+8
+00:00:39,520 --> 00:00:42,610
+As well as motion control for tilting the table.
+
+9
+00:00:42,780 --> 00:00:46,800
+I cannot wait to dive in this thing, this is a supreme oddware.
+
+10
+00:00:47,280 --> 00:00:48,300
+Is it going to be good.
+
+11
+00:00:48,620 --> 00:00:53,090
+So this right here is the Thrustmaster Wizzard Pinball Controller.
+
+12
+00:00:53,370 --> 00:00:55,880
+And yes, I recently got this, because uh...
+
+13
+00:00:55,880 --> 00:00:58,420
+Well, I've been looking for a long, if you could remember.
+
+14
+00:00:58,680 --> 00:01:04,220
+Way back when I did my video on the full Maxis collection of mine, I said this:
+
+15
+00:01:05,250 --> 00:01:07,690
+And with also, this version of it, which is the ...
+
+16
+00:01:07,690 --> 00:01:12,140
+Full Tilt! Pinball Wizzard Pinball Controller Edition by Thrustmaster.
+
+17
+00:01:12,490 --> 00:01:16,010
+This is just the CD they came packed in with the Wizzard Pinball Controller.
+
+18
+00:01:16,010 --> 00:01:17,480
+I don't have one of those...
+
+19
+00:01:17,840 --> 00:01:19,560
+Obviously that have changed
+
+20
+00:01:19,560 --> 00:01:22,290
+that I've been on look out for this ever since doing that video.
+
+21
+00:01:22,290 --> 00:01:25,120
+And when I finally got one, completely boxed and a good price,
+
+22
+00:01:25,120 --> 00:01:28,920
+this is just like the real thing, according to PC GAMER.
+
+23
+00:01:29,550 --> 00:01:30,920
+Oh, so cool.
+
+24
+00:01:31,160 --> 00:01:36,380
+It does come with the free version of a Full Tilt! Pinball, published by Maxis.
+
+25
+00:01:36,380 --> 00:01:38,700
+"Complete Retail Version At No Extra Cost!"
+
+26
+00:01:39,240 --> 00:01:42,920
+And yes, it is for Windows 3.x and Windows 95.
+
+27
+00:01:43,510 --> 00:01:46,370
+So we will be testing that out a little bit.
+
+28
+00:01:46,370 --> 00:01:48,620
+But yeah, let's just go ahead and take a look at the rest of this packaging,
+
+29
+00:01:48,620 --> 00:01:49,680
+where nothing is really cool.
+
+30
+00:01:49,870 --> 00:01:54,280
+Although, there is an another version of this that I think only came out in the UK.
+
+31
+00:01:54,450 --> 00:01:57,370
+They came packaged with a gamed called "Royal Flush".
+
+32
+00:01:57,600 --> 00:02:01,260
+And it had a box that look actually a bit like a pinball machine.
+
+33
+00:02:01,260 --> 00:02:02,760
+And that is even cooler than this.
+
+34
+00:02:02,760 --> 00:02:04,000
+So what the freak is this thing?
+
+35
+00:02:04,000 --> 00:02:05,410
+Well, this is made by Thrustmaster,
+
+36
+00:02:05,410 --> 00:02:07,420
+The same people that were responsible for doing
+
+37
+00:02:07,420 --> 00:02:09,260
+a whole ton of stuff, mainly joysticks.
+
+38
+00:02:09,560 --> 00:02:11,910
+Like the excellent F-16 flight stick.
+
+39
+00:02:12,840 --> 00:02:16,090
+This thing retailed for 39.95,
+
+40
+00:02:16,090 --> 00:02:19,470
+and uh, there's really not a whole lot else to talk about here,
+
+41
+00:02:19,470 --> 00:02:22,540
+just, uh, the fact that this is a box, it exists.
+
+42
+00:02:22,990 --> 00:02:26,560
+Oh yeah, there's some system requirement stuff there, but you know, pretty much...
+
+43
+00:02:26,800 --> 00:02:29,680
+You just need a computer that is IBM compactable and have a game port.
+
+44
+00:02:29,680 --> 00:02:33,540
+Because inside the box, you can see here, is actually plug into a
+
+45
+00:02:33,540 --> 00:02:38,420
+typically like a sound card, game port or whatever you have had a game port installed.
+
+46
+00:02:38,940 --> 00:02:41,290
+So you know, that attaches to a keyboard.
+
+47
+00:02:41,520 --> 00:02:44,770
+So these are the controllers themselves, um...
+
+48
+00:02:45,110 --> 00:02:49,720
+Pretty basic, very flimsy, plasticly kind of things, with crappy buttons.
+
+49
+00:02:51,390 --> 00:02:53,380
+They're really, really filmsy.
+
+50
+00:02:53,380 --> 00:02:57,040
+But anyway, this is kind of a cheap product, so I guess that make scene.
+
+51
+00:02:57,040 --> 00:02:59,100
+This sort of slide underneath your keyboard.
+
+52
+00:02:59,390 --> 00:03:02,720
+And it will typically come with a piece of Velcro?
+
+53
+00:03:02,720 --> 00:03:05,960
+To attach one side of the keyboard, in the other sides to
+
+54
+00:03:05,960 --> 00:03:08,800
+these keep from sliding around, because these do sliding around.
+
+55
+00:03:09,290 --> 00:03:13,830
+I just use something else, like typically, those 3M mounting strips.
+
+56
+00:03:13,830 --> 00:03:16,430
+We'll take a closer look at this in a monent,
+
+57
+00:03:16,430 --> 00:03:18,920
+but let's, uh, actually look inside the box here.
+
+58
+00:03:18,920 --> 00:03:21,810
+Because, well, you got, of cource, the software.
+
+59
+00:03:21,810 --> 00:03:27,120
+The configuration software and the Full Tilt! Pinball on this CD-ROM right here,
+
+60
+00:03:27,120 --> 00:03:29,120
+at least in this America version.
+
+61
+00:03:29,120 --> 00:03:32,730
+A quick start guide for the pinball controller, which is a...
+
+62
+00:03:32,730 --> 00:03:35,610
+Yeah, you pretty much just plug it in,
+
+63
+00:03:35,610 --> 00:03:39,530
+and then calibrate it like a joystick in the Windows 95.
+
+64
+00:03:39,530 --> 00:03:43,690
+And the... then there's a stuff for a... yeah, the Full Tilt! Pinball.
+
+65
+00:03:43,690 --> 00:03:48,000
+I would be curious to find out in the development, like, what made them do this?
+
+66
+00:03:48,000 --> 00:03:50,250
+I know there were a ton of pinball games back in the day.
+
+67
+00:03:50,250 --> 00:03:53,800
+Like, for example, there's another one that you can get with it.
+
+68
+00:03:53,800 --> 00:03:58,000
+This is by the people that made Crystal Caliburn, say pinball table.
+
+69
+00:03:58,000 --> 00:03:59,580
+Or uh, I think this is just a table.
+
+70
+00:03:59,580 --> 00:04:02,190
+Yeah, it comes with a CD-ROM called Loony Labyrinth.
+
+71
+00:04:02,700 --> 00:04:06,240
+There were so many PC pinball games back then. It was ridiculous.
+
+72
+00:04:06,950 --> 00:04:10,760
+So I guess it make scene that, you know, it would enough of a niche market to make this.
+
+73
+00:04:10,760 --> 00:04:13,210
+But, it still just so odd to me.
+
+74
+00:04:13,210 --> 00:04:19,610
+Inside, you also get the, the same quick guide or whatever, in a bunch of other languages.
+
+75
+00:04:19,610 --> 00:04:24,840
+A warranty card, some other warranty stuff.
+
+76
+00:04:24,840 --> 00:04:27,610
+And a Thrustmaster product catalog.
+
+77
+00:04:27,610 --> 00:04:30,440
+Yeah, here are the stuff they would made back in the day.
+
+78
+00:04:30,440 --> 00:04:34,340
+They did all sort of really strange little devices.
+
+79
+00:04:34,340 --> 00:04:38,570
+Mostly having to do with racing and flight, as you can see here.
+
+80
+00:04:38,570 --> 00:04:41,170
+But, this is another one that I actually want to get a hold of sometimes.
+
+81
+00:04:41,170 --> 00:04:42,610
+This is Pro Play Golf.
+
+82
+00:04:42,610 --> 00:04:47,770
+And it let you play a golf game with a actual kind of putter thing,
+
+83
+00:04:47,770 --> 00:04:53,210
+You will see a lot of different um, I don't know, place to have a virtual golf swing.
+
+84
+00:04:54,490 --> 00:04:57,820
+OK, I just give you a little bit more on the idea of what's going on here.
+
+85
+00:04:57,820 --> 00:05:00,720
+Just a closer shot. Isn't this lovely?
+
+86
+00:05:00,720 --> 00:05:08,130
+But yeah, here's the non-clicky kind of simulate a click, a kind of button.
+
+87
+00:05:08,130 --> 00:05:13,360
+Actually, when I take it apart, and then show you what actually goes on for the tilt control.
+
+88
+00:05:15,480 --> 00:05:20,120
+So inside here is actually a pretty straightforward as the button itself.
+
+89
+00:05:20,860 --> 00:05:24,760
+You can actually see the switch there, which...
+
+90
+00:05:24,760 --> 00:05:29,440
+You know, it's not the same kind of clicky metallic quality
+
+91
+00:05:29,440 --> 00:05:33,820
+that you could find in the arcade machine or really, pinball machine like micro switches.
+
+92
+00:05:34,570 --> 00:05:37,900
+I does a least click a little, it just feels really cheap.
+
+93
+00:05:38,370 --> 00:05:44,720
+And then these right here, you have these which control bumping and tilting.
+
+94
+00:05:44,720 --> 00:05:50,180
+You know, when you're moving around, or you bump in... either direction, really.
+
+95
+00:05:50,180 --> 00:05:53,170
+Then this little guy here will react,
+
+96
+00:05:53,170 --> 00:05:56,360
+and kind of finger out what you're doing as you move
+
+97
+00:05:56,380 --> 00:05:58,380
+and if you do too much, it till the table.
+
+98
+00:05:58,380 --> 00:06:03,060
+Which does did work, kind of similar to what real pinball table does.
+
+99
+00:06:03,680 --> 00:06:08,370
+Again, just much cheaper. And these are just really flimsy plasticky things.
+
+100
+00:06:08,370 --> 00:06:10,320
+And I feel like if I touch them too much,
+
+101
+00:06:10,320 --> 00:06:13,680
+they just going to explode, and give me shrapnel damage.
+
+102
+00:06:13,680 --> 00:06:17,280
+But yeah, let's go ahead and take a look at this things and action.
+
+103
+00:06:17,280 --> 00:06:19,000
+I guess I should put it back together first.
+
+104
+00:06:20,120 --> 00:06:23,650
+I know it's finally time to install these things,
+
+105
+00:06:23,650 --> 00:06:27,900
+to put it on the Packard Bell keyboard that I use lately 'cause nostalgia.
+
+106
+00:06:27,900 --> 00:06:32,200
+And yeah, this is literally a simple, a whole manage is.
+
+107
+00:06:32,200 --> 00:06:36,200
+You just slide under there, and there you go.
+
+108
+00:06:36,200 --> 00:06:38,200
+You also put it on the other side.
+
+109
+00:06:38,200 --> 00:06:43,000
+Like I said, it slides around. There's nothing that actually attach to anything.
+
+110
+00:06:43,620 --> 00:06:47,860
+So you really do need something in order to take care of that.
+
+111
+00:06:47,860 --> 00:06:51,570
+What I use actually, these little poster strips.
+
+112
+00:06:51,570 --> 00:06:55,660
+So, I can use anything obviously, Velcro will work too,
+
+113
+00:06:55,660 --> 00:06:59,340
+but these come off, without leaving sticky crappy residue.
+
+114
+00:06:59,340 --> 00:07:02,160
+And they keep these things in place. You just put on there.
+
+115
+00:07:02,160 --> 00:07:06,320
+That stick is on your keyboard. And that's pinball like, I suppose.
+
+116
+00:07:07,760 --> 00:07:11,760
+Doesn't feel anything like the actual click of a real pinball table.
+
+117
+00:07:11,760 --> 00:07:14,500
+But that's OK! We're gonna try it anyway!
+
+118
+00:07:14,500 --> 00:07:19,570
+And as you can see here hopefully, in the control panel of the gaming option
+
+119
+00:07:19,570 --> 00:07:25,800
+for Windows 95 or 98, in this case, you select it as a regular 2-axis, 4-button joystick.
+
+120
+00:07:25,800 --> 00:07:32,720
+And yeah, you can test it out and, try the motion, axes things there.
+
+121
+00:07:32,720 --> 00:07:33,690
+So that's cool.
+
+122
+00:07:33,690 --> 00:07:36,240
+And there's actually two different functions for each buttons.
+
+123
+00:07:36,240 --> 00:07:39,010
+Like, you press it halfway, it'll press one button.
+
+124
+00:07:39,010 --> 00:07:43,700
+And press it all the way it get two, er, there are two buttons for the button.
+
+125
+00:07:43,700 --> 00:07:48,020
+I guess that's for like doing things like, uh, swings, hits and whatnot.
+
+126
+00:07:48,020 --> 00:07:54,280
+And of course, you also got the Thrustmaster Wizzard configuration things here
+
+127
+00:07:54,280 --> 00:07:57,560
+which, you don't actually need to use.
+
+128
+00:07:57,560 --> 00:08:00,570
+Useless you're using a game or playing a game that
+
+129
+00:08:00,570 --> 00:08:04,600
+doesn't necessarily support this thing out of box.
+
+130
+00:08:04,600 --> 00:08:09,920
+Full Tilt! Pinball does. But if you have other game like come with preconfigured stuff
+
+131
+00:08:09,920 --> 00:08:15,020
+like 3DO Ultra Pinball, Crystal Caliburn... whatever, I really don't know what was it.
+
+132
+00:08:15,020 --> 00:08:17,000
+Full Tilt! Pinball, for some reason...
+
+133
+00:08:17,000 --> 00:08:22,000
+Basically this is a keyboard interpreter for the thing.
+
+134
+00:08:22,000 --> 00:08:28,880
+So if you wanted to, you could actually map this stuff to keyboard commands
+
+135
+00:08:28,880 --> 00:08:32,650
+in order to make it work with stuff that doesn't made for the joystick.
+
+136
+00:08:32,650 --> 00:08:38,070
+So let's go ahead and try Full Tilt! Pinball here. Because that's what it comes with.
+
+137
+00:08:38,070 --> 00:08:40,890
+Let's do Space Cadet, as well as the Skulduggery
+
+138
+00:08:40,890 --> 00:08:43,000
+and the Dragon's Keep. But we'll try Space Cadet.
+
+139
+00:08:43,000 --> 00:08:45,910
+And yes, there are two other tables that goes along Space Cadet.
+
+140
+00:08:45,910 --> 00:08:49,580
+Did you know that?  I did!  'Cause Maxis.
+
+141
+00:08:50,760 --> 00:08:54,790
+Alright, so what we're doing here is go to enable joystick.
+
+142
+00:08:55,460 --> 00:08:57,440
+And when I first tried this, it didn't work,
+
+143
+00:08:57,440 --> 00:09:00,010
+because it actually has to be given the ID of one.
+
+144
+00:09:00,530 --> 00:09:04,140
+The Thrustmaster Wizzard program won't work either unless the joystick is mapped...
+
+145
+00:09:04,570 --> 00:09:09,360
+to ID 1, if it's like ID 2 or 3 or something, it's not gonna work. So just make sure that is that.
+
+146
+00:09:12,240 --> 00:09:14,030
+Yeah, this looks pretty good.
+
+147
+00:09:15,740 --> 00:09:17,240
+Pinball Wizzard Controller.
+
+148
+00:09:21,130 --> 00:09:24,120
+It might worked, that thing is sensitive as far as the tilt controls.
+
+149
+00:09:24,120 --> 00:09:26,120
+It's like it's bumping the table at all time.
+
+150
+00:09:26,120 --> 00:09:28,120
+It's not even touching anything.
+
+151
+00:09:29,200 --> 00:09:31,020
+That table is like an earthquake!
+
+152
+00:09:34,880 --> 00:09:40,330
+I will say though, that the buttons are themselves were surprisingly better than
+
+153
+00:09:40,330 --> 00:09:43,860
+you might imagine feeling how flimsy they are, just on their own.
+
+154
+00:09:44,530 --> 00:09:45,860
+But I mean it, you know...
+
+155
+00:09:47,310 --> 00:09:50,720
+Oh man, It's like playing pinball, it's pretty cool.
+
+156
+00:09:53,020 --> 00:09:56,640
+Somehow I think I turned down the sound effects, I don't entirely sure how that happens.
+
+157
+00:09:59,440 --> 00:10:01,440
+My word, I suck at this even more.
+
+158
+00:10:01,820 --> 00:10:04,020
+So here is what I am talking about this far is like,
+
+159
+00:10:04,020 --> 00:10:08,070
+I'm not touching anything and the table is bumping.
+
+160
+00:10:08,790 --> 00:10:10,740
+I don't know how well that showing up.
+
+161
+00:10:11,360 --> 00:10:13,580
+But yeah, if I tilt it,
+
+162
+00:10:14,240 --> 00:10:17,380
+I mean, it really does work. At least it kinda works.
+
+163
+00:10:17,380 --> 00:10:21,890
+The problem being... I mean, the bumping is really good.
+
+164
+00:10:23,540 --> 00:10:24,210
+That's neat.
+
+165
+00:10:26,040 --> 00:10:28,920
+But it does tilt, you know, pretty easily, so...
+
+166
+00:10:28,920 --> 00:10:32,560
+OK, gonna try with one more game here. This is Balls of Steel.
+
+167
+00:10:32,560 --> 00:10:35,940
+And it actually mapped to the keyboard control and doesn't support,
+
+168
+00:10:35,940 --> 00:10:39,820
+like joystick or... whatever.
+
+169
+00:10:39,820 --> 00:10:43,410
+This is... So, let's try this out.
+
+170
+00:10:45,900 --> 00:10:46,980
+And it do crap.
+
+171
+00:10:48,330 --> 00:10:49,310
+That's great.
+
+172
+00:10:51,060 --> 00:10:56,010
+OK. So obviously the thing is working.
+
+173
+00:10:56,010 --> 00:10:58,010
+Like it's mapped to the keyboard.
+
+174
+00:10:58,010 --> 00:11:00,120
+I guess that's typing thing.
+
+175
+00:11:02,040 --> 00:11:04,680
+That's typing things, so that's fine.
+
+176
+00:11:05,330 --> 00:11:06,800
+But when I gonna play it.
+
+177
+00:11:07,810 --> 00:11:10,250
+And it's mapped to the proper controls and everything.
+
+178
+00:11:11,780 --> 00:11:12,940
+It's a different story.
+
+179
+00:11:14,940 --> 00:11:15,970
+Nothing happens.
+
+180
+00:11:17,570 --> 00:11:19,020
+I don't even know why.
+
+181
+00:11:22,250 --> 00:11:24,820
+So uh, that kinda sucks.
+
+182
+00:11:25,090 --> 00:11:30,660
+I was totally given up, but that's kind of a, uh, I even don't know what I am doing.
+
+183
+00:11:30,660 --> 00:11:32,740
+So, let's try this.
+
+184
+00:11:34,700 --> 00:11:35,940
+It should be fun.
+
+185
+00:11:36,320 --> 00:11:38,690
+Well, that turns.
+
+186
+00:11:39,500 --> 00:11:42,300
+Uh, that moves forward.
+
+187
+00:11:43,720 --> 00:11:44,720
+That shoots.
+
+188
+00:11:45,410 --> 00:11:49,520
+And see, turing... I can totally do this!
+
+189
+00:11:54,720 --> 00:11:56,620
+They're shooting each other!
+
+190
+00:12:05,260 --> 00:12:07,970
+Come on! That's right, suck it! Zombies!
+
+191
+00:12:10,400 --> 00:12:12,140
+This is the future guys. I'm telling 'ya.
+
+192
+00:12:13,660 --> 00:12:15,770
+Gonna turn left, since the right doesn't work.
+
+193
+00:12:20,120 --> 00:12:22,220
+GO FORWARD!
+
+194
+00:12:27,680 --> 00:12:29,390
+Oh, this is way better than pinball.
+
+195
+00:12:31,100 --> 00:12:32,770
+Oh crap, what shoots?
+
+196
+00:12:32,770 --> 00:12:33,370
+I forgot.
+
+197
+00:12:35,950 --> 00:12:38,000
+I think that does, sort of.
+
+198
+00:12:41,340 --> 00:12:42,290
+That's right!
+
+199
+00:12:43,140 --> 00:12:44,610
+I wanna beat this level!
+
+200
+00:12:45,460 --> 00:12:46,820
+Oh, it can be the greatest things.
+
+201
+00:12:48,330 --> 00:12:49,720
+And I think I can just run through it.
+
+202
+00:12:51,630 --> 00:12:53,000
+Oh man.
+
+203
+00:12:57,100 --> 00:12:59,370
+Here we go. Oh, I almost had it for a second.
+
+204
+00:13:01,360 --> 00:13:04,510
+This is got to be what this actually made for.
+
+205
+00:13:07,540 --> 00:13:08,940
+Don't let the Imp see me!
+
+206
+00:13:09,690 --> 00:13:12,370
+He's in the corner! Oh, how do I open things?
+
+207
+00:13:15,970 --> 00:13:16,610
+Here it is!
+
+208
+00:13:20,560 --> 00:13:21,810
+Yeah!
+
+209
+00:13:24,990 --> 00:13:31,000
+Thrustmaster Wizzard Pinball Controller, ten star out of five!
+
+210
+00:13:31,000 --> 00:13:33,000
+Thank you for watching LGR Oddware.
+
